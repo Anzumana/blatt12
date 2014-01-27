@@ -1,4 +1,4 @@
-
+// testinou
 public class Stack {
 	private class Node {
 		Object value;
